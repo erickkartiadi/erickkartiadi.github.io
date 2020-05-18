@@ -1,3 +1,3 @@
-#erickkartiadi.github.io
+# erickkartiadi.github.io
 
 Page for my project list
