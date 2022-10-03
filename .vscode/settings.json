@@ -1,0 +1,16 @@
+{
+  "cSpell.words": ["chakra", "Dribbble", "fontsource", "precached", "TTFB"],
+  "search.exclude": {
+    ".vscode/**": true,
+    "app.json": true
+  },
+  "files.watcherExclude": {
+    "package.json": true,
+    "package-lock.json": true,
+    "**/node_modules": true
+  },
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "todo-tree.filtering.excludeGlobs": ["**/node_modules/*", "**/@types/*"]
+}
