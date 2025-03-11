@@ -7,6 +7,7 @@ import { Box, ChakraProvider, Divider } from '@chakra-ui/react';
 import { Footer } from './components/Footer';
 import Header from './components/Header';
 import Section from './components/Section';
+import SectionActivities from './components/section/SectionActivities';
 import SectionCertification from './components/section/SectionCertification';
 import SectionEducation from './components/section/SectionEducation';
 import SectionExperience from './components/section/SectionExperience';
@@ -29,6 +30,9 @@ export const App = () => (
         </Section>
         <Section id="certification" title="Certification">
           <SectionCertification />
+        </Section>
+        <Section id="activities" title="Activities">
+          <SectionActivities />
         </Section>
       </Box>
       <Divider />

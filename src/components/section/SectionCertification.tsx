@@ -4,6 +4,11 @@ function SectionCertification() {
   return (
     <VStack pt="6" w="100%" spacing="8">
       <MyBox
+        title="ALIBABA CLOUD CERTIFIED ASSOCIATE"
+        subtitle="ALIBABA CLOUD"
+        caption="2024"
+      />
+      <MyBox
         title="JUNIOR NETWORK ADMINISTRATOR"
         subtitle="BADAN NASIONAL SERTIFIKASI PROFESI"
         caption="2020"
