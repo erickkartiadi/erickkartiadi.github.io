@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.44a0481b.css",
-    "main.js": "/static/js/main.b1ddfad7.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/static/js/main.3e089476.js",
+    "static/js/787.d7c8b7a3.chunk.js": "/static/js/787.d7c8b7a3.chunk.js",
     "static/media/treloor.png": "/static/media/treloor.e8e6148c9a847f0d3234.png",
     "static/media/ababa-steak.png": "/static/media/ababa-steak.f6a1b79a27400d418166.png",
     "static/media/lyself.png": "/static/media/lyself.9be355a374b50efcfd99.png",
@@ -46,11 +46,11 @@
     "static/media/inter-vietnamese-400-normal.woff2": "/static/media/inter-vietnamese-400-normal.789afb71d327988e2fc8.woff2",
     "index.html": "/index.html",
     "main.44a0481b.css.map": "/static/css/main.44a0481b.css.map",
-    "main.b1ddfad7.js.map": "/static/js/main.b1ddfad7.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.3e089476.js.map": "/static/js/main.3e089476.js.map",
+    "787.d7c8b7a3.chunk.js.map": "/static/js/787.d7c8b7a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44a0481b.css",
-    "static/js/main.b1ddfad7.js"
+    "static/js/main.3e089476.js"
   ]
 }
